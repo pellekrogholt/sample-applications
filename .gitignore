@@ -12,3 +12,6 @@ out
 .classpath
 .project
 RUNNING_PID
+.cache
+.settings
+.target
